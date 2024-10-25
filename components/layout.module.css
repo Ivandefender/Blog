@@ -1,0 +1,17 @@
+.container{
+    max-width: 600px;
+    padding: 0 16px;
+    margin: 24px auto 36px auto;
+    background-color: bisque;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.backToHome{
+    text-transform: uppercase;
+    margin: 40px;
+}
